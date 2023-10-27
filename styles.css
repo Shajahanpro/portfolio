@@ -1,0 +1,36 @@
+/* Reset some default styles */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling for the header */
+header {
+    background-color: #922929;
+    color: #cdd866;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Styling for the navigation menu */
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #94996f;
+    font-weight: bold;
+}
+
+/* Styling for the sections */
+section {
+    padding: 40px;
+}
+
+/* Add more CSS to style your content, fonts, colors, and layout */
